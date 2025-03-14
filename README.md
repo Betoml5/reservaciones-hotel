@@ -1,7 +1,7 @@
 # Reservaciones Hotel
 
 ## Resumen
-El proyecto es un CRUD de Reservaciones de Hotel con sus Habitaciones y Usuarios, se uso EntityFrameworkc como ORM, MySQL como gestor de base de datos y ASP.NET.
+El proyecto es un CRUD de Reservaciones de Hotel con sus Habitaciones y Usuarios, se uso EntityFramework como ORM, MySQL como gestor de base de datos y ASP.NET.
 Tambien se utilizo JWT para la gestion de Tokens/Autenticacióna ademas de xUnit y Moq para los Tests.
 Se utilizo Serilog para los logs.
 
